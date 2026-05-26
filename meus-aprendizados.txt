@@ -1,5 +1,1 @@
-Nesse sementre, aprendi diversas coisas na disciplina de Introdução a Computação, aprendi diversas coisas como:
-- a história da computação
-- o universo dos softwares 
-- o desenvolvimento web 
-- e o mais marcante foi com certeza o desenvolvimento do jogo no code com a plataforma bitsy
+
